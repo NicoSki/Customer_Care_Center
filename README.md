@@ -59,7 +59,7 @@ Do not forget to create your own variables in the .env file, because SendGrid wi
 
 `SEND_GRID`
 
-## Deployment
+## Deployment: https://gold-harsh-chungkingosaurus.glitch.me
 Take a look to the package.json before start the server, if you do not, your console will filled with errors
 
 To deploy this project run
